@@ -3,7 +3,8 @@
 """ Módulo de busquedas
     
     Regresa una tupla con los registros encontrados
-    apartir de una cadena de caracteres"""
+    apartir de una cadena de caracteres. La fuente 
+    de datos es el archivo "caso_nuevo/alumnos.txt""""
 import caso_nuevo.datos as datos
 def buscar(cadena, ruta=datos.ruta):
     lista = []
