@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """ Módulo de busquedas
     
-    Regresa una tupla con los registros encontrados apertir
-    de una cadena de caracteres"""
+    Regresa una tupla con los registros encontrados
+    apartir de una cadena de caracteres"""
 import caso_nuevo.datos as datos
 def buscar(cadena, ruta=datos.ruta):
     lista = []
