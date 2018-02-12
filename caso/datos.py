@@ -1,5 +1,11 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*-
+""" Módulo que contiene 4 objetos en el ámbito global, la cual
+    es muy útil para controlar el flujo, orden,  validacion  y
+    almacenaje de los registros capturados unicamente en memoria.
+    
+    Los objetos representan dos tuplas, un dict y una lista
+    correspondientes a carreras, orden, campos y alumnos."""
 
 carreras = ("Sistemas", "Derecho", "Actuaría", "Arquitectura", "Administración")
 
