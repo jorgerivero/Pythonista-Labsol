@@ -42,3 +42,5 @@ campos = {"Nombre": str, "Primer Apellido": str, "Segundo Apellido": str,
 
 carreras = ("Sistemas", "Derecho", "Actuaría", "Arquitectura",
     "Administración")
+
+campos_busqueda = ("Nombre", "Primer Apellido", "Segundo Apellido")

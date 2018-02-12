@@ -31,3 +31,5 @@ alumnos = [{"Nombre":"Eduardo", "Primer Apellido": "Sánchez",
           {"Nombre": "Patricio", "Primer Apellido": "Ayala",
           "Segundo Apellido": "Arriaga", "Carrera": "Sistemas",
           "Semestre": 5, "Promedio": 8.0, "Al Corriente": True}]
+
+campos_busqueda = ("Nombre", "Primer Apellido", "Segundo Apellido")
